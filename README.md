@@ -4,7 +4,7 @@ Source: https://steamcommunity.com/app/354140/discussions/0/617329797183144648/
 The game **Five Nights at Freddy's 3**, uses a really easy to edit save method, so with some knowledge of it, we can easily hack it!
 
 ## `freddy3`
-The **save file** is stored inside `%appdata%/MMFApplication/`, and it's name is `freddy3`.
+The **save file** is stored inside `%appdata%\MMFApplications`, and it's name is `freddy3`.
 
 The syntax of the file is like `.ini` files, so it's really easy to understand and edit.
 
@@ -33,7 +33,7 @@ turn=0
 4thstar=1
 ```
 
-Or download the file in this repository and place it inside `%appdata%/MMFApplication`.
+Or download the file in this repository and place it inside `%appdata%\MMFApplications`.
 
 Link to the file [here](https://github.com/Fonta22/FNaF3-Hack/blob/main/freddy3).
 
