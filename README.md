@@ -9,7 +9,7 @@ The **save file** is stored inside `%appdata%\MMFApplications`, and it's name is
 The syntax of the file is like `.ini` files, so it's really easy to understand and edit.
 
 ## Full beaten game hack
-To, get the game beaten with all **4 stars**, you have to paste this text inside the **freddy3** file.
+To get the game beaten with all **4 stars**, you have to paste this text inside the **freddy3** file.
 ```
 [freddy3]
 beatgame=1
